@@ -41,7 +41,7 @@ AULA 01 - Trabalhando com estiloss em elementos e componentes
 => Function Components
 - Com hooks os estados são manipuláveis em function components
 
-9. HTML => <input>, <textarea> e <select> tem um estado interno
+9. HTML => input, textarea e select tem um estado interno
 React => controlar o estado => state / setState
 
 10. Componente controlado => aceitam um atributo value e podemos mudar usando onChange
